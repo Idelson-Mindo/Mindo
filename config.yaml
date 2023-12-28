@@ -1,5 +1,5 @@
-baseURL: https://idelsonmindo.com/
-author: Steve Francia
+baseURL: "http://idelsonmindo/"
+author: Idelson Mindo
 copyright: Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.
 paginate: 3
 languageCode: en
@@ -7,15 +7,15 @@ DefaultContentLanguage: en
 enableInlineShortcodes: yes
 ignoreErrors: error-remote-getjson
 theme: hugo-paper
-title: Paper
+title: Idelson Mindo
 params:
   avatar: nanxiaobei@gmail.com
-  bio: Discover fresh context
+  bio: GIS & Data Analyst/developer 
   color: linen
-  github: nanxiaobei
-  instagram: nan.xiaobei
-  name: Lee
-  twitter: nanxiaobei
+  github: /Idelson-Mindo
+  linkedin: /idelson-mindo/
+  name: Idelson Mindo
+ 
 markup:
   goldmark:
     renderer:
@@ -25,11 +25,19 @@ menu:
     - identifier: about
       name: About
       url: /about/
-      weight: 10
+      weight: 1
+    - identifier: Blog
+      name: Blog
+      url: /post/
+      weight: 2
+    - identifier: CV
+      name: CV
+      url: /CV/
+      weight: 3
     - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 10
+      name: Cont@ct
+      url: mailto:idelsonmindo@gmail.com
+      weight: 4
 taxonomies:
   category: categories
   series: series
