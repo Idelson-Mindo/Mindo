@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>index on Paper</title>
-    <link>https://idelsonmindo.com/tags/index/</link>
-    <description>Recent content in index on Paper</description>
+    <title>index on Idelson Mindo</title>
+    <link>http://idelsonmindo/tags/index/</link>
+    <description>Recent content in index on Idelson Mindo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <atom:link href="https://idelsonmindo.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://idelsonmindo/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://idelsonmindo.com/post/</link>
+      <link>http://idelsonmindo/post/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://idelsonmindo.com/post/</guid>
+      <guid>http://idelsonmindo/post/</guid>
       <description></description>
     </item>
   </channel>
